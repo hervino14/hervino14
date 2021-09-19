@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm HervinO N.</h1>
+<h1 align="left">Hi 👋, I'm HervinO NZAU</h1>
 <h3 align="center">I'm a Software engineer | Doing Fullstack developement | Entrepreneur | I ❤️ Love Humans, Passionate about new technologies, cinema, cars 🚙 🚗 🏎️, fashion,...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hervino14&label=Profile%20views&color=0e75b6&style=flat" alt="hervino14" /> </p>
